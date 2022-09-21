@@ -6,11 +6,15 @@
 * Repositorio PM1 ✔
 * Readme ✔
 * Commit inicial
-![]
-* Push inicial
-![]
-* Ingorar archivos
-![]
+
+![Commit inicial](/Capturas%20parte%201/Captura%20de%20pantalla%20(477).png)
+
+* Push inicial ✔
+* Ignorar archivos
+
+![Ignorar archivos](/Capturas%20parte%201/Captura%20de%20pantalla%20(478).png)
+
+
 * Añadir archivo 1.txt
     * vi "archivo1.txt" ##Esc :x para guardar
     * git add .
@@ -23,10 +27,11 @@
 * Añadir archivo 2.txt
     * vi "archivo2.txt"
 * Crear rama remota v0.2
-![Rama remota]()
 
-    * Subir cambios al repositorio remoto;
-    git push origin v0.2
+![Rama remota](/Capturas%20parte%201/Captura%20de%20pantalla%20(480).png)
+
+* + Subir cambios al repositorio remoto;
+git push origin v0.2
 
 * Merge directo
     * posicionarse en la rama master.
