@@ -3,6 +3,36 @@
 
 ### Comandos utilizados en los ejercicios
 
+* Repositorio PM1 ✔
+* Readme ✔
+* Commit inicial
+![]
+* Push inicial
+![]
+* Ingorar archivos
+![]
+* Añadir archivo 1.txt
+    * vi "archivo1.txt" ##Esc :x para guardar
+    * git add .
+* Crear tag v0.1
+    * git tag -a v0.1 -m "Tag v0.1"
+* Subir el tag
+    * git commit -m "commit del tag"
+* Crear rama v0.2
+    * git branch v0.2
+* Añadir archivo 2.txt
+    * vi "archivo2.txt"
+* Crear rama remota v0.2
+![Rama remota]()
+
+    * Subir cambios al repositorio remoto;
+    git push origin v0.2
+
+* Merge directo
+    * posicionarse en la rama master.
+    * hacer un merge de la rama v0.2 en la rama master
+____
+
 ## Examen github parte 2
 
 ### Cuenta de Github
