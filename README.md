@@ -3,22 +3,58 @@
 
 ### Comandos utilizados en los ejercicios
 
-* Git init [nombre del nuevo repositorio] o git init. Ambos para crear un repositorio local ya sea en una nueva carpeta o en la carpeta actual
-* cd. Para moverse entre carpetas
-* ls lista de contenido de una dirección
-* pwd para ver la ruta sobre la cual estamos posicionados
+## Examen github parte 2
 
-* vi [nombre de un archivo nuevo] crea un arcivo nuevo y entra en modo de edición 
-* - insert/i para modificar el archivo
-* - salir esc, para salir del modo de edición
-* * :x para salvar/guardar el archivo
+### Cuenta de Github
+* Foto de perfil en github
 
-* git add [archivo o carpeta a mandar a staging Area] o usar git add . para aceptar todos los cambios de working directory y pasar a staging area
-* git commit -m "Mensaje de confirmación de cambios de staging area" para confirmar cambios del staging area, registra usuario y correo de quien ha modificado, las modificaciones que se realizaron y en qué rama se han realizado
-* git status muestra los estados del repositorio local en sus archivos, muestra si hay algunos por confirmar
-* git show permite ver el último commit con los cambios realizados
-* git log permite ver el historial de cambios del repositorio (commits)
-* git reset --hard/--soft/--mixed, cualquiera de esas opciones permite restablecer o volver a una versión anterior, --hard borra el ultimo commit y no guarda nada, --soft mantiene en staging area el commit eliminado y --mixed mantiene en working directory los commits eliminados.
-* git branch "nombre de la rama" crea una nueva rama.
-* git checkout [nombre de la rama] para moverse entre ramas
-* git merge para fusionar los ultimos cambios de una rama hacia la rama actual
+![foto de perfil](/Captura%20de%20pantalla%20(463).png)
+
+* Doble factor de autenticacion en cuenta de github.
+
+![Doble factor](/Captura%20de%20pantalla%20(465).png)
+
+* Clave pública de mi equipo
+
+![Clave publica](/Captura%20de%20pantalla%20(466).png)
+
+### Uso social de github
+
+* Seguir a mis compañeros
+
+![Seguir a mis companeros](/Captura%20de%20pantalla%20(467).png)
+
+* Seguir repositorios de mis compañeros y añadir estrella
+
+![Estrella1](/Captura%20de%20pantalla%20(467).png)
+
+![Estrella2](/Captura%20de%20pantalla%20(468).png)
+
+![Estrella3](/Captura%20de%20pantalla%20(469).png)
+
+![Estrella4](/Captura%20de%20pantalla%20(470).png)
+
+### Crear una tabla
+
+NOMBRE | GITHUB
+------ | ------
+Edwin Andrez Martinez | Edwin-Andres222
+Jose Martin Cabrera | MartinCabrera137
+Cesar Castro | Cesar-CCS
+
+### Colaboradores
+* jmav94 en repositorio pm1
+![Colaborador](/Captura%20de%20pantalla%20(471).png)
+
+### Crear organización
+* 2 equipos de organizacion PM1-tunombredeusuariodegithub,uno llamado administradores con más permisos y otro colaboradores con menos permisos.
+
+![Colaboradores](/Captura%20de%20pantalla%20(472).png)
+
+![Permisos](/Captura%20de%20pantalla%20(473).png)
+
+* Agregar a jmav94 y dos compañeros
+
+![CoAdmins](/Captura%20de%20pantalla%20(474).png)
+
+* Amigos
